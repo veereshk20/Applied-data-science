@@ -5,9 +5,9 @@ Problems:
 4. Identifying a person in image which consists of different people
 5. Identifying the diseases in plants
 6. Debit/ Credit card fraud detection
-7. Number plate detections
+7. Number plate detections (priority 3)
 8. Flag detection and classification
-9. Identifying the car company
-10. Classification of reciept
-11. Identifying the traffic signs
+9. Identifying the car company 
+10. Classification of reciept (priority 2)
+11. Identifying the traffic signs  (priority 1)
 12. 
