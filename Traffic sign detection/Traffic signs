@@ -5,7 +5,9 @@ stop
 parking
 no parking
 railway track
-speed limit(20,40,60)
+speed limit 20
+speed limit 30
+speed limit 60
 zebra crossing
 school zone
 men at work
